@@ -1,4 +1,106 @@
-body{
-    color: black;
-    background-color: red;
+
+h1 {
+    text-align: center;
+  }
+  
+  h2 {
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+
+  h4{
+      text-align: center;
+  }
+
+  h5{
+      text-align: center;
+  }
+  p{
+      text-align: center;
+  }
+
+  img{
+      text-align: center;
+  }
+
+*{
+    margin: 0%;
+    padding: 0%;
+    text-decoration: none;
+    list-style: none;
+}
+
+
+a:link { text-decoration: none; }
+
+
+a:visited { text-decoration: none; }
+
+
+a:hover { text-decoration: none; }
+
+
+a:active { text-decoration: none; }
+
+.form-sec{
+    margin-left: 15%;
+    margin-right: 15%;
+    margin-bottom: 2.5%;
+    margin-top: 2.5%;
+}
+
+#h3-1-2{
+    text-align: center;
+    margin-top: 5%;
+    margin-bottom: 5%;
+}
+#h3-1-1{
+    text-align: center;
+    margin-top: 10%;
+}
+
+.edu{
+    text-align: center;
+    text-decoration: none;
+}
+
+.skill-sec{
+    text-align: center;
+}
+
+.career-sec-1{
+    margin-top: 10%;
+    text-align: center;
+    margin-bottom: 10%;
+}
+
+
+.img-place-1{
+    width: 50%;
+}
+
+.header{
+    display: inline;
+}
+
+.text-area-1{
+    display: inline;
+}
+
+.head-img-1{
+    width:100%;
+    border-radius: 50%;
+}
+
+.head{
+    text-align: center;
+    margin-top: 5%;
+}
+
+#jumbo{
+    background-image: url("https://media.lasvegassun.com/media/img/photos/2019/08/09/20190724_SUN_HSFB_014_t653.jpg?214bc4f9d9bd7c08c7d0f6599bb3328710e01e7b");
+    
 }
